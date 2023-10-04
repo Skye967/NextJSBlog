@@ -73,7 +73,7 @@ function ContactForm() {
     notification = {
       status: "success",
       title: "Succes!",
-      message: "Message sent successfully!",
+      message: "Message sent successfully!!!",
     };
   }
 
